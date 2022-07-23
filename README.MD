@@ -56,7 +56,7 @@ La página debe contener las siguientes secciones:
 #
 ## Acceso a la página
 
-<a https://diegoreyesdev.github.io/Prueba-Viajes-por-Chile/" target="_blank">Visita mi proyecto en Git Hub</a>
+https://diegoreyesdev.github.io/Prueba-Viajes-por-Chile/ Visita mi proyecto en Git Hub</a>
 <br>
 
 ## Recursos utilizados
