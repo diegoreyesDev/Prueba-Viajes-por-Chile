@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: auto !important;
+}
+
+/* logo */
+.logo {
+    width: 50px;
+}
+
+body {
+    font-family: 'Dosis', sans-serif;
+}
+
+color navbar .bg-color {
+    background-color: transparent;
+}
+
+/* quienes somos */
+.lineatitulos {
+    background-color: white;
+}
